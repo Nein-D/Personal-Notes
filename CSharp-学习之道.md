@@ -19,7 +19,7 @@
 
 ## 路线图
 
-![路线图](./aspnetcore-developer-roadmap.zh-Hans.png)
+![路线图](./CSharp-zh.png)
 
 ## 学习资源
 

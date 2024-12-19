@@ -1,7 +1,0 @@
-F:\CYBK-4202\bypass-load-too-test\BypassLoad-main\Encrypt\bin\Debug\Decrypt.exe.config
-F:\CYBK-4202\bypass-load-too-test\BypassLoad-main\Encrypt\bin\Debug\Decrypt.exe
-F:\CYBK-4202\bypass-load-too-test\BypassLoad-main\Encrypt\bin\Debug\Decrypt.pdb
-F:\CYBK-4202\bypass-load-too-test\BypassLoad-main\Encrypt\obj\Debug\Encrypt.csproj.AssemblyReference.cache
-F:\CYBK-4202\bypass-load-too-test\BypassLoad-main\Encrypt\obj\Debug\Encrypt.csproj.CoreCompileInputs.cache
-F:\CYBK-4202\bypass-load-too-test\BypassLoad-main\Encrypt\obj\Debug\Decrypt.exe
-F:\CYBK-4202\bypass-load-too-test\BypassLoad-main\Encrypt\obj\Debug\Decrypt.pdb
